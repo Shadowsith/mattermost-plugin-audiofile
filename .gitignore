@@ -1,0 +1,5 @@
+/dist
+/node_modules
+/mattermost-mp4file-plugin
+/mattermost-audiofile-plugin
+*.tar.gz
